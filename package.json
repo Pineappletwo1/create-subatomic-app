@@ -1,0 +1,23 @@
+{
+  "name": "create-subatomic-app",
+  "version": "1.0.0",
+  "description": "This app provides a way to create a subatomic application",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pineappletwo1/create-subatomic-app.git"
+  },
+  "keywords": [
+    "subatomic",
+    "minimalistic",
+    "framework"
+  ],
+  "author": "pineappletwo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pineappletwo1/create-subatomic-app/issues"
+  },
+  "bin": {
+    "create-subatomic-app": "bin/index.js"
+  },
+  "homepage": "https://github.com/Pineappletwo1/create-subatomic-app#readme"
+}
