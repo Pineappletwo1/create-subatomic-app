@@ -1,6 +1,6 @@
 {
   "name": "create-subatomic-app",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This app provides a way to create a subatomic application",
   "repository": {
     "type": "git",
